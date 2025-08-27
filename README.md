@@ -1,11 +1,13 @@
 <div align="center">
 
-# 🛠️ First Project - Manual Testing
-
-<img src="https://via.placeholder.com/800x200/4CAF50/ffffff?text=Guru99+Manual+Testing+Project" alt="Project Banner" width="800"/>
+<!-- بانر المشروع -->
+<img src="images/banner.png" alt="Guru99 Manual Testing Project Banner" width="800"/>
 
 </div>
 
+---
+
+# 🛠️ First Project - Manual Testing
 
 ---
 
