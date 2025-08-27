@@ -30,15 +30,14 @@
     <td style="padding:10px; border:1px solid #C8E6C9;">Test steps and expected results</td>
     <td style="padding:10px; border:1px solid #C8E6C9;">📝</td>
     <td style="padding:10px; border:1px solid #C8E6C9;">
-      🟢🟢🟢🟡🟡🟡⬜⬜⬜⬜ 60%
-    </td>
+      🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 100%    </td>
   </tr>
   <tr>
     <td style="padding:10px; border:1px solid #FFE0B2;"><code>BugReport.xlsx</code></td>
     <td style="padding:10px; border:1px solid #FFE0B2;">Documenting discovered errors</td>
     <td style="padding:10px; border:1px solid #FFE0B2;">🐞</td>
     <td style="padding:10px; border:1px solid #FFE0B2;">
-      🟡🟡🟡🟡⬜⬜⬜⬜⬜⬜ 40%
+      🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 100%
     </td>
   </tr>
   <tr>
@@ -46,7 +45,7 @@
     <td style="padding:10px; border:1px solid #F8BBD0;">Test Item Checklists</td>
     <td style="padding:10px; border:1px solid #F8BBD0;">✅</td>
     <td style="padding:10px; border:1px solid #F8BBD0;">
-      🟢🟢🟢🟢🟡🟡🟡⬜⬜⬜ 70%
+      🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 100%
     </td>
   </tr>
 </table>
